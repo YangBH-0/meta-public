@@ -1,0 +1,11 @@
+name: test
+version: '${version}'
+main: com.beyound.dsem.meta.Meta
+commands:
+  sample:
+    description: "sample GUI"
+  meta:
+    description: "METAVERSE"
+api-version: 1.18
+authors: [ ybh ]
+description: for research metaverse 
