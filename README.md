@@ -25,4 +25,4 @@ IoT 플랫폼 - [DeviceResitry]
 
 
 [DeviceResitry]: https://github.com/leha82/dsem_iot_ms
-[Server]: https://github.com/YangBH-0/springLoginServer-public.git
+[Server]: https://github.com/YangBH-0/loginSpringServer-public.git
